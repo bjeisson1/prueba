@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Title of your feature" tests="2" skipped="2" failures="0" errors="0" timestamp="2019-09-19T12:28:52" hostname="CHBOGML-101976" time="7.326">
+  <properties/>
+  <testcase name="Title of your scenario outline" classname="Title of your feature" time="0.013">
+    <skipped/>
+  </testcase>
+  <testcase name="Title of your scenario outline" classname="Title of your feature" time="7.283">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Title of your scenario outline
+---------------------------------------------------------------------------------
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[Test worker] INFO net.serenitybdd.core.Serenity - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Title of your scenario outline
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
